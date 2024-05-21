@@ -1,0 +1,17 @@
+.navbar-custom {
+    background-color: #62aada; 
+}
+
+.jumbotron {
+    background-image: url('assets/consulta2.jpg'); 
+    background-size: cover; 
+    color: #fff; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+.card-img-top {
+    max-height: 200px; 
+    width: 100%; 
+    object-fit: cover; 
+
+}

@@ -1,0 +1,79 @@
+Array
+(
+    [email] => eliza@eliza.com
+    [role] => usuario
+)
+Array
+(
+    [email] => eliza@eliza.com
+    [role] => usuario
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [email] => eliza@eliza.com
+    [role] => usuario
+)
+Array
+(
+    [email] => eliza@eliza.com
+    [role] => usuario
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
+Array
+(
+    [email] => karen@karen.com
+    [role] => usuario
+)
